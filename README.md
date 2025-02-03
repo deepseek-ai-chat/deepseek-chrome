@@ -11,7 +11,7 @@ Deepseek AI is an advanced, universal AI assistant designed to optimize producti
 
 ## Installation
 
-1. Visit the [official website](https://deepseekai.works/) to download the extension.
+1. Visit the [official website](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih) to download the extension.
 2. Follow the installation instructions to add it to your preferred platform.
 
 ## Usage
@@ -21,5 +21,5 @@ Deepseek AI is an advanced, universal AI assistant designed to optimize producti
 
 ## Links
 
-- [Official Website](https://deepseekai.works/)
+- [Official Website](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)
 - [GitHub Repository](https://github.com/yourusername/your-repository)

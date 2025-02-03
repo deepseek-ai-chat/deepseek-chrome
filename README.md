@@ -22,4 +22,4 @@ Deepseek AI is an advanced, universal AI assistant designed to optimize producti
 ## Links
 
 - [Official Website](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)
-- [GitHub Repository](https://github.com/yourusername/your-repository)
+- [GitHub Repository](https://github.com/egmalt/deepseek-ai)

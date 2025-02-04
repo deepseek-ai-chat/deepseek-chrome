@@ -2,6 +2,8 @@
 
 Deepseek AI is an advanced, universal AI assistant designed to optimize productivity and streamline tasks across multiple domains. With its intuitive interface and cutting-edge technology, Deepseek AI is here to help you tackle complex challenges with ease.
 
+[![Install Deepseek AI](https://img.shields.io/badge/Install-Deepseek%20AI-blue?style=for-the-badge&logo=googlechrome)](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)
+
 ## Features
 
 - **Universal Assistant**: Adapts to a wide range of tasks and applications.

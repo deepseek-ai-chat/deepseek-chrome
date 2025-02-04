@@ -112,9 +112,9 @@ DeepSeek AI isn’t just a chatbot – **it’s a comprehensive AI-powered assis
 
 ## 🔗 Links & Resources  
 
-- [Official Website](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)  
+- [Extension](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih) 
+- [Official Website](https://deepseekai.works/)  
 - [GitHub Repository](https://github.com/egmalt/deepseek-ai)  
-- [Privacy Policy](https://yourwebsite.com/privacy)  
 
 ---
 

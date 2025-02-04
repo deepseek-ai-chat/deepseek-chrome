@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon128.png" alt="DeepSeek AI Icon" width="128">
+  <img src="assets/icon128.png" alt="DeepSeek AI Icon" width="128">
 </p>
 
 <h1 align="center">🚀 DeepSeek AI </h1>

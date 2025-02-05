@@ -23,12 +23,12 @@
 
 DeepSeek AI integrates directly into your browser, allowing you to:  
 
-➤ Chat with AI and get instant responses.  
-➤ Generate content without switching tabs.  
-➤ Receive coding assistance and debugging support.  
-➤ Automate repetitive tasks efficiently.  
-➤ Enhance creativity with powered brainstorming.  
-➤ Summarize complex texts into key takeaways.  
+- Chat with AI and get instant responses.  
+- Generate content without switching tabs.  
+- Receive coding assistance and debugging support.  
+- Automate repetitive tasks efficiently.  
+- Enhance creativity with powered brainstorming.  
+- Summarize complex texts into key takeaways.  
 
 ---
 
@@ -131,11 +131,11 @@ DeepSeek improves writing by:
 ### Workflow Automation  
 
 Professionals can automate tasks such as:  
-▸ Email drafting and scheduling.  
-▸ Document organization and structuring.  
-▸ Streamlining repetitive content creation.  
-▸ Managing customer interactions via smart responses.  
-▸ Automating business reports and analysis.  
+1. Email drafting and scheduling.  
+2. Document organization and structuring.  
+3. Streamlining repetitive content creation.  
+4. Managing customer interactions via smart responses.  
+5. Automating business reports and analysis.  
 
 ---
 
@@ -143,12 +143,12 @@ Professionals can automate tasks such as:
 
 DeepSeek AI is constantly evolving with new features, including:  
 
-✔ More natural AI conversations with enhanced context awareness.  
-✔ **Broader coding language support for developers.  
-✔ **Improved research tools** for extracting and summarizing data.  
-✔ **Expanded writing assistance** for better grammar and style suggestions.  
-✔ **Additional personalization settings** to fine-tune user preferences.  
-✔ **AI-powered translations** to support more languages.  
+- More natural AI conversations with enhanced context awareness.  
+- **Broader coding language support for developers.  
+- **Improved research tools** for extracting and summarizing data.  
+- **Expanded writing assistance** for better grammar and style suggestions.  
+- **Additional personalization settings** to fine-tune user preferences.  
+- **AI-powered translations** to support more languages.  
 
 ---
 
@@ -156,11 +156,11 @@ DeepSeek AI is constantly evolving with new features, including:
 
 DeepSeek AI differs from standard chatbots by offering:  
 
-➤ Context Awareness – Remembers past conversations for smarter replies.  
-➤ Multitasking Capabilities – Handles multiple requests simultaneously.  
-➤ Customization Options – Adapts to individual user preferences.  
-➤ Lightning-Fast Speed – Instant AI-generated responses.  
-➤ Seamless User Experience – Simple, intuitive, and efficient.  
+1. Context Awareness – Remembers past conversations for smarter replies.  
+2. Multitasking Capabilities – Handles multiple requests simultaneously.  
+3. Customization Options – Adapts to individual user preferences.  
+4. Lightning-Fast Speed – Instant AI-generated responses.  
+5. Seamless User Experience – Simple, intuitive, and efficient.  
 
 DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** for professionals.  
 

@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
-    <img src="assets/install_button.png" alt="Install Now" width="250">
+    <img src="assets/install_button.png" alt="Install Now" width="200">
   </a>
 </p>
 

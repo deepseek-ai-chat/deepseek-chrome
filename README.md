@@ -145,7 +145,7 @@ DeepSeek AI is constantly evolving with new features, including:
 
 - More natural AI conversations with enhanced context awareness.  
 - Broader coding language support for developers.  
-- Improved research tools** for extracting and summarizing data.  
+- Improved research tools for extracting and summarizing data.  
 - Expanded writing assistance for better grammar and style suggestions.  
 - Additional personalization settings to fine-tune user preferences.  
 - AI-powered translations to support more languages.  

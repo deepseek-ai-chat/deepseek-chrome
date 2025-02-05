@@ -20,7 +20,7 @@
 ## 📌 How DeepSeek Works  
 
 <p align="left">
-  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="550">
+  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="650">
 </p>
 
 DeepSeek AI integrates directly into your browser, allowing you to:  

@@ -17,7 +17,7 @@
 
 ---
 
-## 📌 How DeepSeek AI Works  
+## 📌 How DeepSeek Works  
 
 <p align="left">
   <img src="assets/demo.png" alt="DeepSeek AI Demo" width="450">
@@ -43,7 +43,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 </p>
 
 1. **Click the Install Now button** above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih).  
-2. **Follow the instructions** to add DeepSeek AI to your browser.  
+2. **Follow the instructions** to add DeepSeek to your browser.  
 3. **Pin the extension** for quick access.  
 4. **Click the DeepSeek AI icon** to start using AI-powered tools instantly.  
 5. **Adjust settings** to fit your personal workflow.  

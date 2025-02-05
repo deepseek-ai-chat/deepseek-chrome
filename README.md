@@ -4,7 +4,7 @@
 <h1 align="center">DeepSeek AI</h1>
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
-    <img src="assets/btn.jpg" width="200">
+    <img src="assets/btn.svg" width="140">
   </a>
 </p>
 

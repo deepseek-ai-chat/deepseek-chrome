@@ -28,6 +28,16 @@ DeepSeek AI integrates directly into your browser, allowing you to chat with AI,
 
 ---
 
+## **🚀 Quick Preview of DeepSeek AI in Action**  
+
+<p align="center">
+  <img src="assets/gif.gif" alt="DeepSeek AI in Action" width="600">
+</p>
+
+See how easily you can **activate DeepSeek AI** and start using its powerful features with just one click!
+
+---
+
 ## **🛠️ Personalization for a Smarter Experience**  
 
 <div style="display: flex; align-items: center;">

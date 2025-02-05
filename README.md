@@ -104,11 +104,11 @@ DeepSeek AI is **designed to optimize workflows** with:
 ### DeepSeek-Assisted Development  
 
 DeepSeek helps developers with:  
-➤ Debugging and error detection.  
-➤ Generating optimized code snippets.  
-➤ Understanding complex programming concepts.  
-➤ Refactoring existing code for better performance.  
-➤ Automating repetitive coding tasks.  
+- Debugging and error detection.  
+- Generating optimized code snippets.  
+- Understanding complex programming concepts.  
+- Refactoring existing code for better performance.  
+- Automating repetitive coding tasks.  
 
 ### AI for Research & Data Processing  
 
@@ -117,16 +117,16 @@ Researchers and analysts can use DeepSeek to:
 2. Extract key data points from reports.  
 3. Identify trends and patterns in datasets.  
 4. Compare multiple sources for structured insights.  
-5. Automate literature reviews** for faster research compilation.  
+5. Automate literature reviews for faster research compilation.  
 
 ### AI-Powered Writing  
 
 DeepSeek improves writing by:  
-● Correcting grammar and punctuation.  
-● Generating ideas for blog posts and business content.  
-● Structuring academic and professional documents.  
-● Tailoring tone and style for different audiences.  
-● Offering rewriting suggestions for clarity and impact.  
+- Correcting grammar and punctuation.  
+- Generating ideas for blog posts and business content.  
+- Structuring academic and professional documents.  
+- Tailoring tone and style for different audiences.  
+- Offering rewriting suggestions for clarity and impact.  
 
 ### Workflow Automation  
 

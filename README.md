@@ -145,8 +145,8 @@ Professionals can automate tasks such as:
 
 DeepSeek AI is constantly evolving with new features, including:  
 
-✔ **More natural AI conversations** with enhanced context awareness.  
-✔ **Broader coding language support** for developers.  
+✔ More natural AI conversations with enhanced context awareness.  
+✔ **Broader coding language support for developers.  
 ✔ **Improved research tools** for extracting and summarizing data.  
 ✔ **Expanded writing assistance** for better grammar and style suggestions.  
 ✔ **Additional personalization settings** to fine-tune user preferences.  
@@ -158,11 +158,11 @@ DeepSeek AI is constantly evolving with new features, including:
 
 DeepSeek AI differs from standard chatbots by offering:  
 
-➤ **Context Awareness** – Remembers past conversations for smarter replies.  
-➤ **Multitasking Capabilities** – Handles multiple requests simultaneously.  
-➤ **Customization Options** – Adapts to individual user preferences.  
-➤ **Lightning-Fast Speed** – Instant AI-generated responses.  
-➤ **Seamless User Experience** – Simple, intuitive, and efficient.  
+➤ Context Awareness – Remembers past conversations for smarter replies.  
+➤ Multitasking Capabilities – Handles multiple requests simultaneously.  
+➤ Customization Options – Adapts to individual user preferences.  
+➤ Lightning-Fast Speed – Instant AI-generated responses.  
+➤ Seamless User Experience – Simple, intuitive, and efficient.  
 
 DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** for professionals.  
 
@@ -178,7 +178,7 @@ DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** fo
 
 ## 📌 Get Started with DeepSeek Today!  
 
-DeepSeek AI **enhances productivity, simplifies tasks, and provides AI-driven insights**.  
+DeepSeek AI enhances productivity, simplifies tasks, and provides AI-driven insights.  
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">

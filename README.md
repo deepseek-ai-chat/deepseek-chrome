@@ -20,8 +20,8 @@
 ## **📸 How DeepSeek AI Works**  
 
 <p align="center">
-  <img src="assets/screen 1.png" alt="DeepSeek AI Chat Window" width="400">
-  <img src="assets/screen 2.png" alt="DeepSeek AI Personalization" width="400">
+  <img src="assets/screen 1.png" alt="DeepSeek AI Chat Window" width="280">
+  <img src="assets/screen 2.png" alt="DeepSeek AI Personalization" width="280">
 </p>
 
 DeepSeek AI integrates directly into your browser, allowing you to chat with AI, generate content, and get coding assistance—all without switching tabs.  
@@ -31,7 +31,7 @@ DeepSeek AI integrates directly into your browser, allowing you to chat with AI,
 ## **🚀 Quick Preview of DeepSeek AI in Action**  
 
 <p align="center">
-  <img src="assets/gif.gif" alt="DeepSeek AI in Action" width="600">
+  <img src="assets/gif.gif" alt="DeepSeek AI in Action" width="350">
 </p>
 
 See how easily you can **activate DeepSeek AI** and start using its powerful features with just one click!
@@ -51,7 +51,7 @@ See how easily you can **activate DeepSeek AI** and start using its powerful fea
     </ul>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="assets/screen 2.png" alt="DeepSeek AI Personalization Settings" width="280">
+    <img src="assets/screen 2 2.png" alt="DeepSeek AI Personalization Settings" width="240">
   </div>
 </div>
 
@@ -81,7 +81,7 @@ DeepSeek AI is a powerful tool that integrates **machine learning and natural la
 ## **🚀 DeepSeek AI – Your Companion for Productivity**  
 
 <p align="center">
-  <img src="assets/big_11.jpg" alt="DeepSeek AI in Workflow" width="800">
+  <img src="assets/big_11.jpg" alt="DeepSeek AI in Workflow" width="700">
 </p>
 
 ### **🔹 Core Features**  

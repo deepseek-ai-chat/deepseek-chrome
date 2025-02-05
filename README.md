@@ -33,7 +33,7 @@ DeepSeek AI integrates directly into your browser, allowing you to chat with AI,
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <p>Installing DeepSeek AI is quick and simple:</p>
+    <p>Installing DeepSeek is quick and simple:</p>
     <ul>
       <li>Click the <strong>Install Now</strong> button above or visit the <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">Chrome Web Store</a>.</li>
       <li>Follow the on-screen instructions to add DeepSeek AI to your browser.</li>
@@ -72,7 +72,7 @@ DeepSeek AI integrates directly into your browser, allowing you to chat with AI,
 DeepSeek AI is a powerful tool that integrates **machine learning and natural language processing**, helping users handle complex tasks with ease.  
 
 - **Chatbot** – Engage in meaningful AI-powered conversations that provide insightful responses.  
-- **Coding Assistant** – Generate, debug, and optimize code with AI-driven assistance.  
+- **Coding Assistant** – Generate, debug, and optimize code with driven assistance.  
 - **Research Automation** – Analyze vast amounts of data and extract key insights effortlessly.  
 - **Writing Support** – Improve writing quality, structure, and clarity in any document.  
 - **Task Optimization** – Automate repetitive processes to save time and effort.  
@@ -147,7 +147,7 @@ Unlike many AI tools that offer **basic chatbot functionality**, DeepSeek AI is 
 
 - **Context Retention** – Remembers previous interactions for more relevant responses.  
 - **Multi-Tasking** – DeepSeek can handle multiple types of queries at once.  
-- **Customizability** – Tailor AI settings to match your specific needs and work habits.  
+- **Customizability** – Tailor settings to match your specific needs and work habits.  
 - **Real-Time Performance** – Provides responses in milliseconds, keeping your workflow smooth.  
 
 DeepSeek AI isn’t just a chatbot – **it’s a comprehensive AI-powered assistant** designed for **maximum efficiency and productivity**.  
@@ -164,7 +164,7 @@ DeepSeek AI isn’t just a chatbot – **it’s a comprehensive AI-powered assis
 
 ## **🎯 Get Started with DeepSeek AI Today!**  
 
-DeepSeek AI **eliminates redundant tasks and enhances decision-making** with its AI-driven capabilities.  
+DeepSeek AI **eliminates redundant tasks and enhances decision-making** with its capabilities.  
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">

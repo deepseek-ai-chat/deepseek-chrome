@@ -2,15 +2,13 @@
   <img src="assets/icon128.png" alt="DeepSeek AI Icon" width="128">
 </p>
 
-<h1 align="center">DeepSeek AI</h1>
-
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
     <img src="assets/install_button.png" alt="Install Now" width="200">
   </a>
 </p>
 
-
+<h1 align="center">DeepSeek AI</h1>
 
 <p align="center">
   <strong>DeepSeek AI</strong> is an advanced artificial intelligence assistant designed to automate tasks, optimize workflows, and provide intelligent insights.  

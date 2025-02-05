@@ -19,39 +19,49 @@
 
 ## **📸 How DeepSeek AI Works**  
 
-<p align="center">
-  <img src="assets/screen 1.png" alt="DeepSeek AI Chat Window" width="280">
-  <img src="assets/screen 2.png" alt="DeepSeek AI Personalization" width="280">
-</p>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="assets/demo.png" alt="DeepSeek AI Demo" width="400">
+  </div>
+</div>
 
 DeepSeek AI integrates directly into your browser, allowing you to chat with AI, generate content, and get coding assistance—all without switching tabs.  
 
 ---
 
-## **🚀 Quick Preview of DeepSeek AI in Action**  
+## **🔧 Installation**  
 
-<p align="center">
-  <img src="assets/gif.gif" alt="DeepSeek AI in Action" width="350">
-</p>
-
-See how easily you can **activate DeepSeek AI** and start using its powerful features with just one click!
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>Installing DeepSeek AI is quick and simple:</p>
+    <ul>
+      <li>Click the <strong>Install Now</strong> button above or visit the <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">Chrome Web Store</a>.</li>
+      <li>Follow the on-screen instructions to add DeepSeek AI to your browser.</li>
+      <li>Click the extension icon to start using AI-powered tools instantly.</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="300">
+  </div>
+</div>
 
 ---
 
 ## **🛠️ Personalization for a Smarter Experience**  
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p><strong>With DeepSeek AI’s personalization feature</strong>, you can tailor how the assistant interacts with you.  
-    Customize:</p>
+  <div style="flex: 0.8;">
+    <img src="assets/screen 2 2.png" alt="DeepSeek AI Personalization Settings" width="400">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <p>With <strong>DeepSeek AI’s personalization feature</strong>, you can tailor how the assistant interacts with you.  
+    Customize settings such as:</p>
     <ul>
       <li><strong>Preferred response style</strong> (concise, detailed, professional, casual).</li>
       <li><strong>Language preferences</strong> for multilingual support.</li>
       <li><strong>Task-specific instructions</strong> (e.g., "always summarize in bullet points").</li>
     </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="assets/screen 2 2.png" alt="DeepSeek AI Personalization Settings" width="240">
+    <p>This allows you to adapt DeepSeek AI to your workflow for a more <strong>personalized and productive</strong> experience.</p>
   </div>
 </div>
 
@@ -67,14 +77,6 @@ DeepSeek AI is a powerful tool that integrates **machine learning and natural la
 - **Writing Support** – Improve writing quality, structure, and clarity in any document.  
 - **Task Optimization** – Automate repetitive processes to save time and effort.  
 - **Cross-Platform Integration** – Use DeepSeek seamlessly on various browsers and devices.  
-
----
-
-## **🔧 Installation**  
-
-1️⃣ **Download the Extension** – Click the **Install Now** button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih).  
-2️⃣ **Add to Your Browser** – Follow the simple installation steps.  
-3️⃣ **Start Using DeepSeek** – Click the extension icon to begin leveraging in your workflow.  
 
 ---
 
@@ -162,7 +164,7 @@ DeepSeek AI isn’t just a chatbot – **it’s a comprehensive AI-powered assis
 
 ## **🎯 Get Started with DeepSeek AI Today!**  
 
-DeepSeek AI **eliminates redundant tasks and enhances decision-making** with its AI-driven capabilities. Whether you're looking for **a chatbot, a coding assistant, or a research tool**, DeepSeek AI is the solution for your productivity needs.  
+DeepSeek AI **eliminates redundant tasks and enhances decision-making** with its AI-driven capabilities.  
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">

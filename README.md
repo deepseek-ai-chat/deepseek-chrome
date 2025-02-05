@@ -71,7 +71,7 @@ These settings allow DeepSeek AI to **adapt to your needs and enhance productivi
 
 DeepSeek AI integrates **machine learning and natural language processing** to help users with:  
   
-- Coding Assistance* – Generate, debug, and optimize code.  
+- Coding Assistance – Generate, debug, and optimize code.  
 - Research & Analysis – Extract insights from vast datasets.  
 - Content Writing – Improve structure, clarity, and engagement.  
 - Task Automation – Eliminate repetitive manual work.  

@@ -20,7 +20,7 @@
 ## 📌 How DeepSeek Works  
 
 <p align="left">
-  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="650">
+  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="700">
 </p>
 
 DeepSeek AI integrates directly into your browser, allowing you to:  
@@ -39,7 +39,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 ### Step-by-Step Guide  
 
 <p align="left">
-  <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="450">
+  <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="700">
 </p>
 
 1. **Click the Install Now button** above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih).  
@@ -54,7 +54,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 ## 📌 Personalization for a Smarter Experience  
 
 <p align="left">
-  <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="450">
+  <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="700">
 </p>
 
 With **DeepSeek AI’s personalization feature**, you can customize how the assistant interacts with you:
@@ -172,7 +172,7 @@ DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** fo
 
 ✔ **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)**  
 ✔ **[Visit the Official Website](https://deepseekai.works/)**  
-✔ **[Explore the GitHub Repository](https://github.com/egmalt/deepseek-ai)**  
+✔ **[Explore the GitHub Repository](https://github.com/deepseek-ai-chat/extension)**  
 
 ---
 

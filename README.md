@@ -57,7 +57,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 0.8;">
-    <img src="assets/screen 2 2.png" alt="DeepSeek AI Personalization Settings" width="400">
+    <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="400">
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <p>With <strong>DeepSeek AI’s personalization feature</strong>, you can customize how the assistant interacts with you:</p>

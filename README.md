@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">DeepSeek AI</h1>
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
+  <a href="сhttps://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
     <img src="assets/btn_install.svg" width="140">
   </a>
 </p>
@@ -179,7 +179,7 @@ DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** fo
 DeepSeek AI enhances productivity, simplifies tasks, and provides AI-driven insights.  
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
     <img src="https://img.shields.io/badge/Install%20Now-DeepSeek%20AI-blue?style=for-the-badge&logo=googlechrome" alt="Install DeepSeek AI">
   </a>
 </p>

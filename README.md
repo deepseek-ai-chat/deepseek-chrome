@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">DeepSeek AI</h1>
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
     <img src="assets/btn_install.svg" width="140">
   </a>
 </p>
@@ -40,7 +40,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
   <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="700">
 </p>
 
-1. Click the Install Now button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih).  
+1. Click the Install Now button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome).  
 2. Follow the instructions to add DeepSeek to your browser.  
 3. Pin the extension for quick access.  
 4. Click the DeepSeek AI icon to start using AI-powered tools instantly.  
@@ -168,7 +168,7 @@ DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** fo
 
 ## Links & Resources  
 
-- **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)**  
+- **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome)**  
 - **[Visit the Official Website](https://deepseekai.works/)**  
 - **[Explore the GitHub Repository](https://github.com/deepseek-ai-chat/extension)**  
 

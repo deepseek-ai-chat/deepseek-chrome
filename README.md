@@ -168,13 +168,13 @@ DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** fo
 
 ## Links & Resources  
 
-✔ **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)**  
-✔ **[Visit the Official Website](https://deepseekai.works/)**  
-✔ **[Explore the GitHub Repository](https://github.com/deepseek-ai-chat/extension)**  
+- **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)**  
+- **[Visit the Official Website](https://deepseekai.works/)**  
+- **[Explore the GitHub Repository](https://github.com/deepseek-ai-chat/extension)**  
 
 ---
 
-## 📌 Get Started with DeepSeek Today!  
+## Get Started with DeepSeek Today!  
 
 DeepSeek AI enhances productivity, simplifies tasks, and provides AI-driven insights.  
 

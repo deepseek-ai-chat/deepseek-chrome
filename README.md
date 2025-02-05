@@ -19,7 +19,7 @@
 
 ## 📌 How DeepSeek AI Works  
 
-<p align="center">
+<p align="left">
   <img src="assets/demo.png" alt="DeepSeek AI Demo" width="450">
 </p>
 
@@ -36,7 +36,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 
 ### Step-by-Step Guide  
 
-<p align="center">
+<p align="left">
   <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="450">
 </p>
 
@@ -49,7 +49,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 
 ## 📌 Personalization for a Smarter Experience  
 
-<p align="center">
+<p align="left">
   <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="450">
 </p>
 

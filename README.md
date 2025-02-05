@@ -18,7 +18,7 @@
 ## How DeepSeek Works? 
 
 <p align="center">
-  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="700">
+  <img src="assets/scr3.jpg" alt="DeepSeek AI Demo" width="1400">
 </p>
 
 DeepSeek AI integrates directly into your browser, allowing you to:  
@@ -52,7 +52,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 ## Personalization for a Smarter Experience  
 
 <p align="center">
-  <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="700">
+  <img src="assets/big_14.jpg" alt="DeepSeek AI Personalization Settings" width="1400">
 </p>
 
 With **DeepSeek AI’s personalization feature**, you can customize how the assistant interacts with you:
@@ -83,7 +83,7 @@ DeepSeek AI integrates **machine learning and natural language processing** to h
 ## DeepSeek AI – Your Companion for Productivity  
 
 <p align="center">
-  <img src="assets/big_11.jpg" alt="DeepSeek AI in Workflow" width="700">
+  <img src="assets/big_13.jpg" alt="DeepSeek AI in Workflow" width="1400">
 </p>
 
 ### Core Features  

@@ -58,7 +58,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 <table style="width: 100%;">
   <tr>
     <td width="45%" align="center">
-      <img src="assets/screen 2 2.png" alt="DeepSeek AI Personalization Settings" width="450">
+      <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="450">
     </td>
     <td width="55%" valign="top">
       <p>With <strong>DeepSeek AI’s personalization feature</strong>, you can customize how the assistant interacts with you:</p>

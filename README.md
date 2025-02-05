@@ -6,9 +6,11 @@
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
-    <img src="https://img.shields.io/badge/Install%20Now-DeepSeek%20AI-blue?style=for-the-badge&logo=googlechrome" alt="Install DeepSeek AI">
+    <img src="assets/install_button.png" alt="Install Now" width="250">
   </a>
 </p>
+
+
 
 <p align="center">
   <strong>DeepSeek AI</strong> is an advanced artificial intelligence assistant designed to automate tasks, optimize workflows, and provide intelligent insights.  
@@ -59,11 +61,11 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 
 With **DeepSeek AI’s personalization feature**, you can customize how the assistant interacts with you:
 
-✔ Set response style – Choose between concise, detailed, professional, or casual replies.  
-✔ Select language preferences – Multilingual support ensures seamless interactions.  
-✔ Define task-specific instructions – (e.g., "always summarize in bullet points").  
-✔ Enable topic prioritization – Focus on areas like tech, finance, or science.  
-✔ Refine accuracy levels – Adjust DeepSeek settings to improve precision.  
+- Set response style – Choose between concise, detailed, professional, or casual replies.  
+- Select language preferences – Multilingual support ensures seamless interactions.  
+- Define task-specific instructions – (e.g., "always summarize in bullet points").  
+- Enable topic prioritization – Focus on areas like tech, finance, or science.  
+- Refine accuracy levels – Adjust DeepSeek settings to improve precision.  
 
 These settings allow DeepSeek AI to **adapt to your needs and enhance productivity**.
 

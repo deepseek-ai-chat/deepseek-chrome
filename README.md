@@ -17,10 +17,10 @@
 
 ---
 
-## **📌 How DeepSeek AI Works**  
+## 📌 How DeepSeek AI Works  
 
-<p align="left">
-  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="500">
+<p align="center">
+  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="450">
 </p>
 
 DeepSeek AI integrates directly into your browser, allowing you to:  
@@ -32,49 +32,38 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 
 ---
 
-## **📌 Installation**  
+## 📌 Installation  
 
-<table style="width: 100%;">
-  <tr>
-    <td width="55%" valign="top">
-      <p>Follow these steps to install DeepSeek AI:</p>
-      <ol>
-        <li>Click the <strong>Install Now</strong> button above or visit the <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">Chrome Web Store</a>.</li>
-        <li>Follow the on-screen instructions to add DeepSeek AI to your browser.</li>
-        <li>Pin the extension for quick access.</li>
-        <li>Click the DeepSeek AI icon to start using AI-powered tools instantly.</li>
-      </ol>
-    </td>
-    <td width="45%" align="center">
-      <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="280">
-    </td>
-  </tr>
-</table>
+### Step-by-Step Guide  
+
+<p align="center">
+  <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="450">
+</p>
+
+1. Click the **Install Now** button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih).
+2. Follow the on-screen instructions to add DeepSeek AI to your browser.
+3. Pin the extension for quick access.
+4. Click the DeepSeek AI icon to start using AI-powered tools instantly.
 
 ---
 
-## **📌 Personalization for a Smarter Experience**  
+## 📌 Personalization for a Smarter Experience  
 
-<table style="width: 100%;">
-  <tr>
-    <td width="45%" align="center">
-      <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="450">
-    </td>
-    <td width="55%" valign="top">
-      <p>With <strong>DeepSeek AI’s personalization feature</strong>, you can customize how the assistant interacts with you:</p>
-      <ol>
-        <li><strong>Set response style</strong> – Choose between concise, detailed, professional, or casual replies.</li>
-        <li><strong>Select language preferences</strong> – Multilingual support ensures seamless interactions.</li>
-        <li><strong>Task-specific instructions</strong> – Define how AI should respond (e.g., "always summarize in bullet points").</li>
-      </ol>
-      <p>These settings allow DeepSeek AI to adapt to your workflow and improve productivity.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="450">
+</p>
+
+With **DeepSeek AI’s personalization feature**, you can customize how the assistant interacts with you:
+
+1. **Set response style** – Choose between concise, detailed, professional, or casual replies.
+2. **Select language preferences** – Multilingual support ensures seamless interactions.
+3. **Task-specific instructions** – Define how AI should respond (e.g., "always summarize in bullet points").
+
+These settings allow DeepSeek AI to adapt to your workflow and improve productivity.
 
 ---
 
-## **📌 Why Use DeepSeek?**  
+## 📌 Why Use DeepSeek?  
 
 DeepSeek AI integrates **machine learning and natural language processing** to help users with:  
 
@@ -87,13 +76,13 @@ DeepSeek AI integrates **machine learning and natural language processing** to h
 
 ---
 
-## **📌 DeepSeek AI – Your Companion for Productivity**  
+## 📌 DeepSeek AI – Your Companion for Productivity  
 
 <p align="center">
   <img src="assets/big_11.jpg" alt="DeepSeek AI in Workflow" width="700">
 </p>
 
-### **📌 Core Features**  
+### 📌 Core Features  
 
 DeepSeek AI is designed to optimize workflows with:  
 
@@ -105,30 +94,30 @@ DeepSeek AI is designed to optimize workflows with:
 
 ---
 
-## **📌 Practical Use Cases**  
+## 📌 Practical Use Cases  
 
-### **📌 DeepSeek-Assisted Development**  
+### DeepSeek-Assisted Development  
 
 DeepSeek AI helps developers with:  
 1. Debugging and error detection.  
 2. Generating code snippets in multiple programming languages.  
 3. Understanding complex programming concepts.  
 
-### **📌 AI for Research & Data Processing**  
+### AI for Research & Data Processing  
 
 Researchers and analysts can use DeepSeek AI to:  
 1. Summarize lengthy academic papers.  
 2. Extract key data points for reports.  
 3. Identify patterns and trends in datasets.  
 
-### **📌 AI-Powered Writing**  
+### AI-Powered Writing  
 
 DeepSeek AI improves writing by:  
 1. Correcting grammar and punctuation.  
 2. Generating creative ideas for blog posts and business content.  
 3. Structuring academic and professional documents.  
 
-### **📌 Workflow Automation**  
+### Workflow Automation  
 
 Professionals can automate tasks such as:  
 1. Email drafting and scheduling.  
@@ -137,7 +126,7 @@ Professionals can automate tasks such as:
 
 ---
 
-## **📌 Continuous Evolution & Future Updates**  
+## 📌 Continuous Evolution & Future Updates  
 
 DeepSeek AI is constantly evolving with new features, including:  
 
@@ -148,7 +137,7 @@ DeepSeek AI is constantly evolving with new features, including:
 
 ---
 
-## **📌 How DeepSeek AI Stands Out**  
+## 📌 How DeepSeek AI Stands Out  
 
 DeepSeek AI differs from standard chatbots by offering:  
 
@@ -161,7 +150,7 @@ DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** fo
 
 ---
 
-## **📌 Links & Resources**  
+## 📌 Links & Resources  
 
 - **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)**  
 - **[Visit the Official Website](https://deepseekai.works/)**  
@@ -169,7 +158,7 @@ DeepSeek AI is more than a chatbot—it's a **fully integrated AI assistant** fo
 
 ---
 
-## **📌 Get Started with DeepSeek AI Today!**  
+## 📌 Get Started with DeepSeek AI Today!  
 
 DeepSeek AI **enhances productivity, simplifies tasks, and provides AI-driven insights**.  
 

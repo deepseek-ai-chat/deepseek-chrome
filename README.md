@@ -2,7 +2,7 @@
   <img src="assets/icon128.png" alt="DeepSeek AI Icon" width="128">
 </p>
 
-<h1 align="center">DeepSeek AI </h1>
+<h1 align="center">DeepSeek AI</h1>
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">
@@ -17,7 +17,37 @@
 
 ---
 
-## ✨ Why Use DeepSeek?  
+## **📸 How DeepSeek AI Works**  
+
+<p align="center">
+  <img src="assets/screen 1.png" alt="DeepSeek AI Chat Window" width="400">
+  <img src="assets/screen 2.png" alt="DeepSeek AI Personalization" width="400">
+</p>
+
+DeepSeek AI integrates directly into your browser, allowing you to chat with AI, generate content, and get coding assistance—all without switching tabs.  
+
+---
+
+## **🛠️ Personalization for a Smarter Experience**  
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p><strong>With DeepSeek AI’s personalization feature</strong>, you can tailor how the assistant interacts with you.  
+    Customize:</p>
+    <ul>
+      <li><strong>Preferred response style</strong> (concise, detailed, professional, casual).</li>
+      <li><strong>Language preferences</strong> for multilingual support.</li>
+      <li><strong>Task-specific instructions</strong> (e.g., "always summarize in bullet points").</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="assets/screen 2.png" alt="DeepSeek AI Personalization Settings" width="280">
+  </div>
+</div>
+
+---
+
+## **✨ Why Use DeepSeek?**  
 
 DeepSeek AI is a powerful tool that integrates **machine learning and natural language processing**, helping users handle complex tasks with ease.  
 
@@ -26,11 +56,11 @@ DeepSeek AI is a powerful tool that integrates **machine learning and natural la
 - **Research Automation** – Analyze vast amounts of data and extract key insights effortlessly.  
 - **Writing Support** – Improve writing quality, structure, and clarity in any document.  
 - **Task Optimization** – Automate repetitive processes to save time and effort.  
-- **Cross-Platform Integration** – Use DeepSeek  seamlessly on various browsers and devices.  
+- **Cross-Platform Integration** – Use DeepSeek seamlessly on various browsers and devices.  
 
 ---
 
-## 🔧 Installation  
+## **🔧 Installation**  
 
 1️⃣ **Download the Extension** – Click the **Install Now** button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih).  
 2️⃣ **Add to Your Browser** – Follow the simple installation steps.  
@@ -38,9 +68,13 @@ DeepSeek AI is a powerful tool that integrates **machine learning and natural la
 
 ---
 
-## 🚀 DeepSeek AI – Your Companion for Productivity  
+## **🚀 DeepSeek AI – Your Companion for Productivity**  
 
-### 🔹 Core Features  
+<p align="center">
+  <img src="assets/big_11.jpg" alt="DeepSeek AI in Workflow" width="800">
+</p>
+
+### **🔹 Core Features**  
 
 DeepSeek offers a robust **AI-powered toolkit** for professionals, developers, and researchers looking to optimize their work.  
 
@@ -52,39 +86,37 @@ DeepSeek offers a robust **AI-powered toolkit** for professionals, developers, a
 
 ---
 
-## 📚 Practical Use Cases  
+## **📚 Practical Use Cases**  
 
-### 🔹 DeepSeek-Assisted Development  
+### **DeepSeek-Assisted Development**  
 
 DeepSeek AI is an invaluable **coding assistant** that helps developers:  
 - Identify and fix programming errors.  
 - Generate code snippets in various languages.  
 - Understand complex programming concepts with detailed explanations.  
 
-Instead of spending time searching for solutions online, **get AI-powered suggestions instantly**.  
-
-### 🔹 Research & Knowledge Extraction  
+### **Research & Knowledge Extraction**  
 
 If you're working with **scientific papers, reports, or large datasets**, DeepSeek AI:  
 - Summarizes long-form content in seconds.  
 - Extracts meaningful insights from raw data.  
 - Helps analysts and researchers spot patterns and trends quickly.  
 
-### 🔹 AI-Powered Content Writing  
+### **AI-Powered Content Writing**  
 
 DeepSeek AI refines and enhances your writing by:  
 - Correcting grammar, punctuation, and sentence flow.  
 - Generating ideas for blog posts, reports, or business content.  
 - Providing structure and clarity for technical and academic writing.  
 
-### 🔹 Workflow Automation  
+### **Workflow Automation**  
 
 Automate repetitive tasks such as **email responses, scheduling, and document organization**.  
 DeepSeek helps professionals focus on high-value work by handling routine operations.  
 
 ---
 
-## 🔄 Continuous Evolution & Future Updates  
+## **🔄 Continuous Evolution & Future Updates**  
 
 DeepSeek AI is constantly evolving with **new features and optimizations**. Future updates will include:  
 
@@ -97,7 +129,7 @@ By keeping up with advancements, DeepSeek AI ensures **a smarter and more effici
 
 ---
 
-## 🏆 How DeepSeek AI Stands Out  
+## **🏆 How DeepSeek AI Stands Out**  
 
 Unlike many AI tools that offer **basic chatbot functionality**, DeepSeek AI is designed to **integrate deeply** with your workflow. Here’s why it stands out:  
 
@@ -110,17 +142,17 @@ DeepSeek AI isn’t just a chatbot – **it’s a comprehensive AI-powered assis
 
 ---
 
-## 🔗 Links & Resources  
+## **🔗 Links & Resources**  
 
-- [Extension](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih) 
-- [Official Website](https://deepseekai.works/)  
-- [GitHub Repository](https://github.com/egmalt/deepseek-ai)  
+- **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih)**  
+- **[Visit the Official Website](https://deepseekai.works/)**  
+- **[Explore the GitHub Repository](https://github.com/egmalt/deepseek-ai)**  
 
 ---
 
-## 🎯 Get Started with DeepSeek AI Today!  
+## **🎯 Get Started with DeepSeek AI Today!**  
 
-DeepSeek AI **eliminates redundant tasks and enhances decision-making** with its driven capabilities. Whether you're looking for **an chatbot, a coding assistant, or a research tool**, DeepSeek AI is the solution for your productivity needs.  
+DeepSeek AI **eliminates redundant tasks and enhances decision-making** with its AI-driven capabilities. Whether you're looking for **a chatbot, a coding assistant, or a research tool**, DeepSeek AI is the solution for your productivity needs.  
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">

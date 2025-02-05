@@ -19,11 +19,9 @@
 
 ## **📌 How DeepSeek AI Works**  
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="assets/demo.png" alt="DeepSeek AI Demo" width="400">
-  </div>
-</div>
+<p align="left">
+  <img src="assets/demo.png" alt="DeepSeek AI Demo" width="500">
+</p>
 
 DeepSeek AI integrates directly into your browser, allowing you to:  
 
@@ -36,39 +34,43 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 
 ## **📌 Installation**  
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>Follow these steps to install DeepSeek AI:</p>
-    <ol>
-      <li>Click the <strong>Install Now</strong> button above or visit the <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">Chrome Web Store</a>.</li>
-      <li>Follow the on-screen instructions to add DeepSeek AI to your browser.</li>
-      <li>Pin the extension for quick access.</li>
-      <li>Click the DeepSeek AI icon to start using AI-powered tools instantly.</li>
-    </ol>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="300">
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td width="55%" valign="top">
+      <p>Follow these steps to install DeepSeek AI:</p>
+      <ol>
+        <li>Click the <strong>Install Now</strong> button above or visit the <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih">Chrome Web Store</a>.</li>
+        <li>Follow the on-screen instructions to add DeepSeek AI to your browser.</li>
+        <li>Pin the extension for quick access.</li>
+        <li>Click the DeepSeek AI icon to start using AI-powered tools instantly.</li>
+      </ol>
+    </td>
+    <td width="45%" align="center">
+      <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="280">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## **📌 Personalization for a Smarter Experience**  
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 0.8;">
-    <img src="assets/sceen 2 2.png" alt="DeepSeek AI Personalization Settings" width="400">
-  </div>
-  <div style="flex: 1; padding-left: 20px;">
-    <p>With <strong>DeepSeek AI’s personalization feature</strong>, you can customize how the assistant interacts with you:</p>
-    <ol>
-      <li><strong>Set response style</strong> – Choose between concise, detailed, professional, or casual replies.</li>
-      <li><strong>Select language preferences</strong> – Multilingual support ensures seamless interactions.</li>
-      <li><strong>Task-specific instructions</strong> – Define how AI should respond (e.g., "always summarize in bullet points").</li>
-    </ol>
-    <p>These settings allow DeepSeek AI to adapt to your workflow and improve productivity.</p>
-  </div>
-</div>
+<table style="width: 100%;">
+  <tr>
+    <td width="45%" align="center">
+      <img src="assets/screen 2 2.png" alt="DeepSeek AI Personalization Settings" width="450">
+    </td>
+    <td width="55%" valign="top">
+      <p>With <strong>DeepSeek AI’s personalization feature</strong>, you can customize how the assistant interacts with you:</p>
+      <ol>
+        <li><strong>Set response style</strong> – Choose between concise, detailed, professional, or casual replies.</li>
+        <li><strong>Select language preferences</strong> – Multilingual support ensures seamless interactions.</li>
+        <li><strong>Task-specific instructions</strong> – Define how AI should respond (e.g., "always summarize in bullet points").</li>
+      </ol>
+      <p>These settings allow DeepSeek AI to adapt to your workflow and improve productivity.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

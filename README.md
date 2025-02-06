@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">DeepSeek AI</h1>
 <p align="center">
-  <a href="сhttps://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
     <img src="assets/btn_install.svg" width="140">
   </a>
 </p>

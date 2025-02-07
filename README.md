@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
-  <img src="assets/top_2.jpg" alt="DeepSeek AI Icon" width="1400">
+  <img src="assets/top_3.jpg" alt="DeepSeek AI Icon" width="1400">
 </p>
 <h1 align="center">DeepSeek AI</h1>
 <p align="center">

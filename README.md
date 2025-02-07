@@ -177,6 +177,11 @@ A: Yes, it’s designed for a seamless user experience, combining simplicity, in
 
 **DeepSeek AI** isn’t just another chatbot—it’s a fully integrated AI assistant built for professionals who need smarter, faster, and more personalized AI support.
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
+  <img src="assets/top_2.jpg" alt="DeepSeek AI Icon" width="1400">
+</p>
+
 ---
 
 ## Links & Resources  
@@ -184,11 +189,6 @@ A: Yes, it’s designed for a seamless user experience, combining simplicity, in
 - **[Install DeepSeek AI from Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome)**  
 - **[Visit the Official Website](https://deepseekai.works/)**  
 - **[Explore the GitHub Repository](https://github.com/deepseek-ai-chat/extension)**  
-
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
-  <img src="assets/top_2.jpg" alt="DeepSeek AI Icon" width="1400">
-</p>
 
 ---
 

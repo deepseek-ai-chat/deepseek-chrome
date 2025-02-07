@@ -119,7 +119,6 @@ Researchers and analysts can use DeepSeek to:
 
 ### AI-Powered Writing  
 
-DeepSeek improves writing by:  
 - Correcting grammar and sentence structure.
 - Structuring professional and academic content.
 - Adjusting tone for different audiences.
@@ -127,7 +126,8 @@ DeepSeek improves writing by:
 
 ### Workflow Automation  
 
-Professionals can automate tasks such as:  
+Professionals can automate tasks such as: 
+ 
 1. Automating repetitive writing tasks such as drafting emails, reports, and responses.
 2. Organizing and structuring business documents with predefined templates and formatting.
 3. Managing customer inquiries with AI-driven responses that provide quick and accurate support.
@@ -137,7 +137,7 @@ Professionals can automate tasks such as:
 
 ## Continuous Evolution & Future Updates  
 
-DeepSeek AI is constantly evolving with new features, including:  
+DeepSeek AI is:  
 
 - More natural AI conversations with enhanced context awareness.  
 - Broader coding language support for developers.  

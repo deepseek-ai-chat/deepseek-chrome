@@ -38,12 +38,12 @@ DeepSeek AI integrates directly into your browser, allowing you to:
   <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="700">
 </p>
 
-1. Click the Install Now button above or visit the [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome).  
-2. Follow the instructions to add DeepSeek to your browser.  
-3. Pin the extension for quick access.  
-4. Click the DeepSeek AI icon to start using AI-powered tools instantly.  
-5. Adjust settings to fit your personal workflow.  
-6. Explore AI features and integrate them into your daily tasks.  
+1. Install via [Chrome Web Store](https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome)  
+2. Add DeepSeek to browser  
+3. Pin for quick access
+4. Click the icon to start  
+5. Customize settings  
+6. Use AI tools daily  
 
 ---
 

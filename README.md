@@ -1,4 +1,5 @@
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/top_2.jpg" alt="DeepSeek AI Icon" width="1400">
 </p>
 <h1 align="center">DeepSeek AI</h1>
@@ -18,6 +19,7 @@
 ## How DeepSeek Works? 
 
 <p align="center">
+    <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/scr3.jpg" alt="DeepSeek AI Demo" width="1400">
 </p>
 
@@ -35,6 +37,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 ### Step-by-Step Guide  
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/gif.gif" alt="DeepSeek AI Installation" width="700">
 </p>
 
@@ -50,6 +53,7 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 ## Personalization for a Smarter Experience  
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/big_14.jpg" alt="DeepSeek AI Personalization Settings" width="1400">
 </p>
 
@@ -82,6 +86,7 @@ DeepSeek AI integrates **machine learning and natural language processing** to h
 ## DeepSeek AI – Your Companion for Productivity  
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/big_13.jpg" alt="DeepSeek AI in Workflow" width="1400">
 </p>
 

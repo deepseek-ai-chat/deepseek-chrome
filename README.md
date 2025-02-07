@@ -25,10 +25,8 @@ DeepSeek AI integrates directly into your browser, allowing you to:
 
 - Chat with AI and get instant responses.  
 - Generate content without switching tabs.  
-- Receive coding assistance and debugging support.  
-- Automate repetitive tasks efficiently.  
-- Enhance creativity with powered brainstorming.  
-- Summarize complex texts into key takeaways.  
+- Receive coding assistance and debugging support.   
+- Enhance creativity with powered brainstorming.
 
 ---
 

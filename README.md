@@ -126,10 +126,10 @@ Academic papers are packed with valuable knowledge, but digesting them takes tim
 
 ### AI-Powered Writing  
 
-- Correcting grammar and sentence structure.
-- Structuring professional and academic content.
-- Adjusting tone for different audiences.
-- Providing rewriting suggestions for clarity. 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
+  <img src="assets/demo3.png" alt="DeepSeek AI in Workflow" width="1400">
+</p>
 
 ### Workflow Automation  
 

@@ -114,6 +114,11 @@ DeepSeek helps developers with:
 3. Understanding complex programming logic.
 4. Refactoring and improving performance.
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
+  <img src="assets/demo1.png" alt="DeepSeek AI in Workflow" width="1400">
+</p>
+
 ### AI for Research & Data Processing  
 
 Researchers and analysts can use DeepSeek to:

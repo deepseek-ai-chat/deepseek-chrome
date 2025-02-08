@@ -117,6 +117,8 @@ Whether you're debugging, refactoring, or understanding a new concept, DeepSeek 
 
 ### AI for Research & Learning 
 
+Academic papers are packed with valuable knowledge, but digesting them takes time. DeepSeek instantly processes complex studies, extracting key findings and summarizing them in a clear, concise format.
+
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/demo2.png" alt="DeepSeek AI in Workflow" width="1400">

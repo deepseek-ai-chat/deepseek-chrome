@@ -115,13 +115,12 @@ Whether you're debugging, refactoring, or understanding a new concept, DeepSeek 
   <img src="assets/demo1.png" alt="DeepSeek AI in Workflow" width="1400">
 </p>
 
-### AI for Research & Data Processing  
+### AI for Research & Learning 
 
-Researchers and analysts can use DeepSeek to:
-
-- Summarize lengthy academic papers.
-- Extract key insights from multiple sources.
-- Identify trends in structured and unstructured data. 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
+  <img src="assets/demo1.png" alt="DeepSeek AI in Workflow" width="1400">
+</p>
 
 ### AI-Powered Writing  
 

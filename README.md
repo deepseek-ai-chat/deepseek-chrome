@@ -126,33 +126,13 @@ Academic papers are packed with valuable knowledge, but digesting them takes tim
 
 ### AI-Powered Writing  
 
+Not every sentence is perfect on the first try. Typos, awkward phrasing, and unclear structure can make writing messy. DeepSeek refines your text, improving grammar, readability, and style—so you can communicate with confidence.
+
 <p align="letf">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/demo3.png" alt="DeepSeek AI in Workflow" width="700" height="488">
 </p>
-
-### Workflow Automation  
-
-Professionals can automate tasks such as: 
  
-1. Automating repetitive writing tasks such as drafting emails, reports, and responses.
-2. Organizing and structuring business documents with predefined templates and formatting.
-3. Managing customer inquiries with AI-driven responses that provide quick and accurate support.
-4. Generating summaries and reports in seconds, turning raw data into actionable insights.
-
----
-
-## Continuous Evolution & Future Updates  
-
-DeepSeek AI is:  
-
-- More natural AI conversations with enhanced context awareness.  
-- Broader coding language support for developers.  
-- Improved research tools for extracting and summarizing data.  
-- Expanded writing assistance for better grammar and style suggestions.  
-- Additional personalization settings to fine-tune user preferences.  
-- AI-powered translations to support more languages.  
-
 ---
 
 ## How Does DeepSeek AI Stand Out?

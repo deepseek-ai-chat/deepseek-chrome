@@ -119,7 +119,7 @@ Whether you're debugging, refactoring, or understanding a new concept, DeepSeek 
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
-  <img src="assets/demo1.png" alt="DeepSeek AI in Workflow" width="1400">
+  <img src="assets/demo2.png" alt="DeepSeek AI in Workflow" width="1400">
 </p>
 
 ### AI-Powered Writing  

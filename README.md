@@ -128,7 +128,7 @@ Academic papers are packed with valuable knowledge, but digesting them takes tim
 
 <p align="letf">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
-  <img src="assets/demo3.png" alt="DeepSeek AI in Workflow">
+  <img src="assets/demo3.png" alt="DeepSeek AI in Workflow" width="700" height="488">
 </p>
 
 ### Workflow Automation  

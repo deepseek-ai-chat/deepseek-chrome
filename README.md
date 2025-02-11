@@ -130,7 +130,7 @@ Not every sentence is perfect on the first try. Typos, awkward phrasing, and unc
 
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
-  <img src="assets/demo123.png" alt="DeepSeek AI in Workflow" width="1400" height="488">
+  <img src="assets/demo123.png" alt="DeepSeek AI in Workflow" width="1400" height="976">
 </p>
  
 ---

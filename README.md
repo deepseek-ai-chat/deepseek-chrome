@@ -128,7 +128,7 @@ Academic papers are packed with valuable knowledge, but digesting them takes tim
 
 Not every sentence is perfect on the first try. Typos, awkward phrasing, and unclear structure can make writing messy. DeepSeek refines your text, improving grammar, readability, and style—so you can communicate with confidence.
 
-<p align="letf">
+<p align="center">
   <a href="https://chromewebstore.google.com/detail/deepseek-ai/npphdmcakmfhllhblkealgkeefamebih?utm_source=github&utm_medium=display_f&utm_campaign=deepseek_chrome">
   <img src="assets/demo123.png" alt="DeepSeek AI in Workflow" width="700" height="488">
 </p>

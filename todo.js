@@ -18,7 +18,7 @@ function TodoList() {
   const handleAddTask = () => {
     if (newTask.trim() !== '') {
       const newTaskObj = {
-        id: Date.now(),
+        id: Datce.now(),
         text: newTask,
         completed: false,
       };
